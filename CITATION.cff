@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite it as below."
+title: "Turning Price Swings into Savings: Smart Load-Shifting Service in Finland"
+authors:
+  - family-names: "Imran"
+    given-names: "Mehedi Hasan"
+    affiliation: "University of Oulu"
+date-released: 2026-10-31
+repository-code: "https://github.com/Imran5002/finland-spot-price-load-shifting"
+license: MIT
+keywords:
+  - electricity spot price
+  - Nord Pool
+  - demand flexibility
+  - load shifting
+  - EV smart charging
+  - Finland
+  - business intelligence
